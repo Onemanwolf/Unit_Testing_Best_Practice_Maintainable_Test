@@ -148,7 +148,7 @@ public class CalculatorShould {
 
 - When implementation changes and test break
 - Avoid by using tools like AutoFixture, Mock
-- Setup Dependency Graphs in you Test Class Constructor
+- Setup Dependency Graphs in your Test Class Constructor
 
 # White Box Testing
 
