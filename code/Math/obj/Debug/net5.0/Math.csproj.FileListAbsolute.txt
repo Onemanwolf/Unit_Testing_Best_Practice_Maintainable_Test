@@ -1,0 +1,12 @@
+c:\UntTestingInNetCore\Math\bin\Debug\net5.0\Math.deps.json
+c:\UntTestingInNetCore\Math\bin\Debug\net5.0\Math.dll
+c:\UntTestingInNetCore\Math\bin\Debug\net5.0\ref\Math.dll
+c:\UntTestingInNetCore\Math\bin\Debug\net5.0\Math.pdb
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\Math.csprojAssemblyReference.cache
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\Math.AssemblyInfo.cs
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\Math.csproj.CoreCompileInputs.cache
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\Math.dll
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\ref\Math.dll
+c:\UntTestingInNetCore\Math\obj\Debug\net5.0\Math.pdb

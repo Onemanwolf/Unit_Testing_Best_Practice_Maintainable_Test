@@ -1,0 +1,8 @@
+C:\UnitTestBestProactices\code\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\UnitTestBestProactices\code\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\UnitTestBestProactices\code\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\UnitTestBestProactices\code\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\UnitTestBestProactices\code\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\UnitTestBestProactices\code\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\UnitTestBestProactices\code\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\UnitTestBestProactices\code\Math\obj\Debug\netcoreapp3.1\Math.pdb
